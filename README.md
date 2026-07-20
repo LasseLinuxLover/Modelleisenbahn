@@ -11,7 +11,7 @@ Mit dieser Schaltung kann man sehr günstig einen Bremsabschnitt für eine Model
 
 Wie es Funktioniert:
 
-Der Decoder der Lok erkennt, wenn micht mehr das klassische Wechselstrom-Pulsweitenmodulationssignal anliegt, sondern nur noch positive Spannung (egal, ob eine Gleichspannung oder ein normales Pulsweitenmodulationssignal) anliegt. Daher ist in der Schaltung ein Gleichrichter verbaut, der dann die Spannung ins ausschließlich positive setzt. 
+Der Decoder der Lok erkennt, wenn micht mehr das klassische Wechselstrom-Pulsweitenmodulationssignal anliegt, sondern nur noch positive Spannung (egal, ob eine Gleichspannung oder ein normales Pulsweitenmodulationssignal) anliegt. Daher ist in der Schaltung ein Gleichrichter verbaut (siehe Bild 1 mit der Schaltung), der dann die Spannung ins ausschließlich positive setzt. 
 
 Es ist außerdem eine LED verbaut, die anzeigt, ob das Bremsmodul im Moment mit Strom versorgt ist.
 
@@ -31,7 +31,7 @@ This circuit allows you to set up a braking section for a model railway layout v
 
 How it works:
 
-The locomotive's decoder detects when the classic AC pulse-width modulation signal is no longer present and only positive voltage is applied (regardless of whether it is DC voltage or a standard pulse-width modulation signal). Therefore, a rectifier is incorporated into the circuit to convert the voltage to a strictly positive state.
+The locomotive's decoder detects when the classic AC pulse-width modulation signal is no longer present and only positive voltage is applied (regardless of whether it is DC voltage or a standard pulse-width modulation signal). Therefore, a rectifier is incorporated into the circuit to convert the voltage to a strictly positive state (look at Picture 1).
 
 An LED is also installed to indicate whether the brake module is currently powered.
 
