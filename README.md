@@ -3,7 +3,8 @@
 # Modeltrains break module for H0
 
 Bild / Picture 1<img width="1120" height="570" alt="bremsabschnitt" src="https://github.com/user-attachments/assets/20a4d7ae-5927-45f0-b68c-c6ad91c81907" />
-Bild / Picture 2<img width="4000" height="3000" alt="20260719_205229_neu" src="https://github.com/user-attachments/assets/73c28323-42c8-4e15-86a5-588f24b9bf1f" />
+Bild / Picture 2<img width="566" height="848" alt="20260719_205229_neu" src="https://github.com/user-attachments/assets/4b5cf9f0-f13b-4168-ad73-c2841e75d15f" />
+
 
 -- Deutsch (German) --
 
@@ -21,6 +22,8 @@ Updates dazu kommen noch.
 Damit es funktioniert, muss man einige Einstellungen am Decoder der Lok vornehmen. Eine Anleitung hierzu ist in Arbeit.
 
 Genauere Anleitungen sind in Arbeit, da ich dies nacharbeite und das Experiment bereits Mitte 2024 abgeschlossen habe.
+
+Teileliste:
 
 
 
