@@ -6,11 +6,11 @@ Bild / Picture 1<img width="1120" height="570" alt="bremsabschnitt" src="https:/
 Bild / Picture 2<img width="566" height="848" alt="20260719_205229_neu" src="https://github.com/user-attachments/assets/4b5cf9f0-f13b-4168-ad73-c2841e75d15f" />
 
 
--- Deutsch (German) --
+# -- Deutsch (German) --
 
 Mit dieser Schaltung kann man sehr günstig einen Bremsabschnitt für eine Modelleisenbahnanlage einrichten - man braucht nur ein Modul pro Anlage / Booster. Statt 30-80€ auszugeben zahlt man hier nur ein paar Euro für Dioden und ein Board zum Auflöten.
 
-Wie es Funktioniert:
+# Wie es Funktioniert:
 
 Der Decoder der Lok erkennt, wenn micht mehr das klassische Wechselstrom-Pulsweitenmodulationssignal anliegt, sondern nur noch positive Spannung (egal, ob eine Gleichspannung oder ein normales Pulsweitenmodulationssignal) anliegt. Daher ist in der Schaltung ein Gleichrichter verbaut (siehe Bild 1 mit der Schaltung), der dann die Spannung ins ausschließlich positive setzt. 
 
@@ -28,11 +28,11 @@ Teileliste:
 
 
  
--- English --
+# -- English --
 
 This circuit allows you to set up a braking section for a model railway layout very inexpensively—you only need one module per layout or booster. Instead of spending €30–€80, you pay just a few euros for diodes and a board for soldering.
 
-How it works:
+# How it works:
 
 The locomotive's decoder detects when the classic AC pulse-width modulation signal is no longer present and only positive voltage is applied (regardless of whether it is DC voltage or a standard pulse-width modulation signal). Therefore, a rectifier is incorporated into the circuit to convert the voltage to a strictly positive state (look at Picture 1).
 
