@@ -10,7 +10,7 @@ Bild / Picture 2<img width="566" height="848" alt="20260719_205229_neu" src="htt
 
 Mit dieser Schaltung kann man sehr günstig einen Bremsabschnitt für eine Modelleisenbahnanlage einrichten - man braucht nur ein Modul pro Anlage / Booster. Statt 30-80€ auszugeben zahlt man hier nur ein paar Euro für Dioden und ein Board zum Auflöten.
 
-# Wie es Funktioniert:
+<h2> Wie es Funktioniert:</h2>
 
 Der Decoder der Lok erkennt, wenn micht mehr das klassische Wechselstrom-Pulsweitenmodulationssignal anliegt, sondern nur noch positive Spannung (egal, ob eine Gleichspannung oder ein normales Pulsweitenmodulationssignal) anliegt. Daher ist in der Schaltung ein Gleichrichter verbaut (siehe Bild 1 mit der Schaltung), der dann die Spannung ins ausschließlich positive setzt. 
 
@@ -23,8 +23,23 @@ Damit es funktioniert, muss man einige Einstellungen am Decoder der Lok vornehme
 
 Genauere Anleitungen sind in Arbeit, da ich dies nacharbeite und das Experiment bereits Mitte 2024 abgeschlossen habe.
 
-Teileliste:
-
+<h2>Teileliste:</h2>
+<table>
+   <tr>
+    <th>Dioden</th>
+    <th>6</th>
+   </tr>
+   <tr>
+    <th>LED</th>
+    <th>1</th>
+   </tr>
+   <tr>
+    <th>Widerstand</th>
+    <th>1</th>
+    <th>1330 Ohm</th>
+   </tr>
+ 
+</table>
 
 
  
@@ -32,7 +47,7 @@ Teileliste:
 
 This circuit allows you to set up a braking section for a model railway layout very inexpensively—you only need one module per layout or booster. Instead of spending €30–€80, you pay just a few euros for diodes and a board for soldering.
 
-# How it works:
+<h2>How it works:</h2>
 
 The locomotive's decoder detects when the classic AC pulse-width modulation signal is no longer present and only positive voltage is applied (regardless of whether it is DC voltage or a standard pulse-width modulation signal). Therefore, a rectifier is incorporated into the circuit to convert the voltage to a strictly positive state (look at Picture 1).
 
@@ -44,3 +59,21 @@ Updates on this are still to come.
 For this to work, you need to adjust a few settings on the locomotive's decoder. Instructions for this are currently being prepared.
 
 More detailed instructions are in the works, as I am revisiting this work, having already completed the experiment in mid-2024.
+
+<h2>Parts List:</h2>
+<table>
+   <tr>
+    <th>Diodes</th>
+    <th>6</th>
+   </tr>
+   <tr>
+    <th>LED</th>
+    <th>1</th>
+   </tr>
+   <tr>
+    <th>Resistor</th>
+    <th>1</th>
+    <th>1330 Ohm</th>
+   </tr>
+ 
+</table>
